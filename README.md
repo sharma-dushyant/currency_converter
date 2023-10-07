@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Flutter Currency Converter App 👋</h1>
 
-> Weather App Built with Flutter
+> Currency Converter App with Flutter
 
 ## 🚀 See Video
 ![Record_2023-10-05-21-43-30 (1)](https://github.com/sharma-dushyant/currency_converter/assets/87010265/2c4371d4-b810-474e-8224-c6b02047f943)
