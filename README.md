@@ -18,7 +18,7 @@ Prerequisite: https://flutter.dev/docs/get-started/install
 
 2. Clone the repo.
     ```sh
-     https://github.com/sharma-dushyant/Weather_App.git
+     https://github.com/sharma-dushyant/currency_converter.git
     ```
 3. Install packages.
     ```sh
